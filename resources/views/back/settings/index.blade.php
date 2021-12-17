@@ -1,0 +1,1 @@
+@include("back.settings.{$view}")
